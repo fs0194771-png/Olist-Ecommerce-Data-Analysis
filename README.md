@@ -3,7 +3,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Cleaning%20%26%20EDA-CC2927)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811)
 ![DAX](https://img.shields.io/badge/DAX-96%20Measures-1f4e79)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 An end-to-end analysis of the Brazilian **Olist** e-commerce marketplace. Raw CSV files were cleaned and validated in **SQL Server**, explored through business-driven SQL queries, then modeled and visualized in an interactive **Power BI** report with 8 analytical pages and a drill-through "Why?" page.
 
